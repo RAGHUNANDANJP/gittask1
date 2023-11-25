@@ -1,5 +1,5 @@
 1. Creating the Folder on local Computer "gittask1"
-2. git init
+2. $ git init
 3. Adding/ creating the file on this git folder.
 
 $ git status
@@ -12,11 +12,11 @@ Untracked files:
 
 nothing added to commit but untracked files present (use "git add" to track)
 
-3. git add gitsamplefile.txt 
-4. git commit -m "1st commit"
+3. $ git add gitsamplefile.txt 
+4. $ git commit -m "1st commit"
 5. Creating the new Repository in GitHub with public access.
 6. pushing an existing repository from the command line code provided by GitHub.
-   git remote add origin https://github.com/RAGHUNANDANJP/gittask1.git
-   git branch -M main
-   git push -u origin main
+   $ git remote add origin https://github.com/RAGHUNANDANJP/gittask1.git
+   $ git branch -M main
+   $ git push -u origin main
 7. The code being pushed from local repository to remote.
