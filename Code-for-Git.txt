@@ -19,4 +19,4 @@
    $ git branch -M main
    $ git push -u origin main
 7. The code being pushed from local repository to remote.
-8. End
+8. End of the Task #
