@@ -1,7 +1,6 @@
 1. Creating the Folder on local Computer "gittask1"
 2. $ git init
 3. Adding/ creating the file on this git folder.
-
 $ git status
 On branch main
 Your branch is up to date with 'origin/main'.
